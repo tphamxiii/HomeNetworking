@@ -14,6 +14,7 @@ Overall Technical Workflow
 ⦁	Wireless Network Security - Describe how to secure your network
 ⦁	Testing  Network Ports- Describe how to test your network connection and ports.
 ⦁	Click the link here to find out ⦁	Appendix B, ⦁	Appendix C, and ⦁	Appendix D 
+
  
 Concepts Covered
 ⦁	Validate Components
